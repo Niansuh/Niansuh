@@ -8,4 +8,4 @@ This is a message I want to send to you:
 - 🤔 I'm looking for help on how to optimize my code and improve AI performance.
 - 💬 Ask me about anything related to AI, I will try to answer as best I can.
 - 😄 My pronoun is he/him/guy.
-- 💁‍♂️ Here is the link to my projects ---> https://huggingface.co/ngoctuanai
+- 💁‍♂️ Here is the link to my projects ---> https://huggingface.co/Niansuh
