@@ -9,3 +9,12 @@ This is a message I want to send to you:
 - 💬 Ask me about anything related to AI, I will try to answer as best I can.
 - 😄 My pronoun is he/him/guy.
 - 💁‍♂️ Here is the link to my projects ---> https://huggingface.co/Niansuh
+<br />
+<div>
+  <a href="https://github.com/Niansuh/Niansuh"> 
+    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=Niansuh&count_private=true&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/Niansuh/Niansuh"> 
+    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niansuh&show_icons=true&layout=compact&theme=dracula"/>
+  </a>
+</div>
