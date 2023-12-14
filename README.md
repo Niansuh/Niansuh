@@ -12,9 +12,9 @@ This is a message I want to send to you:
 <br />
 <div>
   <a href="https://github.com/Niansuh/Niansuh"> 
-    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=Niansuh&count_private=true&show_icons=true&theme=dracula" />
+    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=Niansuh&count_private=true&show_icons=true&theme=transparent" />
   </a>
   <a href="https://github.com/Niansuh/Niansuh"> 
-    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niansuh&show_icons=true&layout=compact&theme=dracula"/>
+    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niansuh&show_icons=true&layout=compact&theme=transparent"/>
   </a>
 </div>
