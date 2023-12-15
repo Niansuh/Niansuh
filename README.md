@@ -19,21 +19,35 @@ This is a message I want to send to you:
 
 <!-- github status  -->
 <div align="center">    
+<a href="https://github.com/Niansuh/Niansuh">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niansuh&theme=github_dark" style="height: 300px"/></div>
+</a>  
 <div>
+<a href="https://github.com/Niansuh/Niansuh">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</a>
+<a href="https://github.com/Niansuh/Niansuh"> 
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niansuh&theme=github_dark" width="45%" />
+</a>
+ <a href="https://github.com/Niansuh/Niansuh">
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niansuh&theme=github_dark" width="45%" />
-
+ </a>
+<a href="https://github.com/Niansuh/Niansuh">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niansuh&theme=github_dark" width="45%" />
+</a>
+<a href="https://github.com/Niansuh/Niansuh">
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niansuh&theme=github_dark&utcOffset=8" width="45%" />
+</a>
 
 </div>
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="left">⚡Activity Graph:</h2>
+<a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=srajasimman&area=true&hide_border=true&theme=github-compact" /></a>
 <div align="center">  
 <a href="https://github.com/Niansuh/Niansuh">
 <img src="https://github-profile-trophy.vercel.app/?username=Niansuh&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"/></div>  
 </a>
-<a href="https://github.com/Niansuh/Niansuh"> 
+<a href="https://github.com/Niansuh/Niansuh">
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </a>
