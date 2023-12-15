@@ -36,7 +36,7 @@ This is a message I want to send to you:
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niansuh&theme=github_dark" width="45%" />
 </a>
 <a href="https://github.com/Niansuh/Niansuh">
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niansuh&theme=github_dark&utcOffset=8" width="45%" />
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srajasimman&theme=github_dark&utcOffset=%2B5" width="45%" />
 </a>
 
 </div>
