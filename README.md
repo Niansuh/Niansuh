@@ -23,3 +23,5 @@ This is a message I want to send to you:
 </div>
 <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Niansuh&area=true&hide_border=true&theme=github-compact" /></a>
 <div align="center">  
+<img src="https://github-profile-trophy.vercel.app/?username=Niansuh&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"/></div>  
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
