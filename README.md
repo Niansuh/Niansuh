@@ -22,5 +22,5 @@ This is a message I want to send to you:
   </a>
 </div>
 <h2 align="left">⚡Activity Graph:</h2>
-<a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=srajasimman&area=true&hide_border=true&theme=github-compact" /></a>
+<a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Niansuh&area=true&hide_border=true&theme=github-compact" /></a>
 <div align="center">  
