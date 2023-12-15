@@ -21,7 +21,9 @@ This is a message I want to send to you:
     <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niansuh&show_icons=true&layout=compact&theme=transparent"/>
   </a>
 </div>
-<a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Niansuh&area=true&hide_border=true&theme=github-compact" /></a>
+<a href="https://github.com/Niansuh/Niansuh">
+<img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Niansuh&area=true&hide_border=true&theme=github-compact" />
+</a>
 <div align="center">  
 <img src="https://github-profile-trophy.vercel.app/?username=Niansuh&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"/></div>  
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
