@@ -14,9 +14,6 @@ This is a message I want to send to you:
 - 💁‍♂️ Here is the link to my projects ---> https://huggingface.co/Niansuh
 <br />
 <div>
-### 👨‍💻 Daily.dev
-
-<a href="https://app.daily.dev/srajasimman"><img src="https://github.com/srajasimman/srajasimman/blob/master/devcard.svg" width="350" alt="Rajasimman S's Dev Card"/></a>
 
 ### 📊 Statistics
 
