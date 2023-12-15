@@ -18,6 +18,9 @@ This is a message I want to send to you:
     <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=Niansuh&count_private=true&show_icons=true&theme=transparent" />
   </a>
   <a href="https://github.com/Niansuh/Niansuh"> 
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srajasimman&theme=github_dark&utcOffset=8" width="45%" />
+    </a>
+  <a href="https://github.com/Niansuh/Niansuh"> 
     <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niansuh&show_icons=true&layout=compact&theme=transparent"/>
   </a>
 </div>
